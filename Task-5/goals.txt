@@ -1,0 +1,5 @@
+- To become a proficient full-stack developer
+- To gain strong command over Git and GitHub
+- To build real-world projects and improve coding skills
+- To learn modern frontend and backend technologies
+- To collaborate effectively in a team environment
