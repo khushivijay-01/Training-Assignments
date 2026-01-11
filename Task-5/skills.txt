@@ -1,0 +1,6 @@
+- Basic knowledge of Git and GitHub
+- Understanding of version control systems
+- Experience with branching, merging, and commits
+- Familiar with command line (Git Bash)
+- Basic HTML and web development concepts
+- Willingness to learn and adapt
