@@ -1,4 +1,3 @@
-Goals:
 - To become a proficient full-stack developer
 - To gain strong command over Git and GitHub
 - To build real-world projects and improve coding skills
